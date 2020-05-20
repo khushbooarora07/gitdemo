@@ -56,8 +56,7 @@ public class stepDefintions extends base{
     	while(i<3)
     	{
     		driver.findElement(By.cssSelector(".increment")).click();
-    		System.out.println("learning  GITHUb");
-        	System.out.println("learning  GITHUb change 2 ");
+    	
     		i++;
     	}
     	
@@ -87,7 +86,8 @@ public class stepDefintions extends base{
     	driver.findElement(By.cssSelector(".cart-icon")).click();
     	Assert.assertTrue(driver.findElement(By.cssSelector(".quantity")).getText().contains(strArg1));
         driver.findElement(By.xpath("//button[text()='PROCEED TO CHECKOUT']")).click();
- 
+        System.out.println("learning  Branches");
+        
     	
     }
 
