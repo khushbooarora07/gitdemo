@@ -29,12 +29,15 @@ public class stepDefintions extends base{
     public void user_search_for_something_vegetable(String strArg1) throws Throwable {
     	
     	driver.findElement(By.cssSelector(".search-keyword")).sendKeys(strArg1);
+    	System.out.println("learning  GITHUb");
+    	System.out.println("learning  GITHUb change 2 ");
     	//driver.findElement(By.cssSelector(".search-button")).click();
     	Thread.sleep(2000);
   
     }
 
-    @Then("^\"([^\"]*)\" result is displayed$")
+    @SuppressWarnings("deprecation")
+	@Then("^\"([^\"]*)\" result is displayed$")
     public void something_result_is_displayed(String strArg1) throws Throwable {
     
    int products = driver.findElements(By.cssSelector(".products")).size();
