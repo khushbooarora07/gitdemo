@@ -87,7 +87,7 @@ public class stepDefintions extends base{
     	Assert.assertTrue(driver.findElement(By.cssSelector(".quantity")).getText().contains(strArg1));
         driver.findElement(By.xpath("//button[text()='PROCEED TO CHECKOUT']")).click();
         System.out.println("learning  Branches");
-        
+        System.out.println("Architest 2 updated");
     	
     }
 
