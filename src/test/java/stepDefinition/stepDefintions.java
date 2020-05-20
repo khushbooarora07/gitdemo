@@ -56,6 +56,8 @@ public class stepDefintions extends base{
     	while(i<3)
     	{
     		driver.findElement(By.cssSelector(".increment")).click();
+    		System.out.println("learning  GITHUb");
+        	System.out.println("learning  GITHUb change 2 ");
     		i++;
     	}
     	
@@ -74,6 +76,8 @@ public class stepDefintions extends base{
     	}
     	
     	driver.findElement(By.xpath("//button[text()='ADD TO CART']")).click();
+    	System.out.println("learning  GITHUb");
+    	System.out.println("learning  GITHUb change 2 ");
     	
     }
     
