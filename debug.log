@@ -1,0 +1,12 @@
+[0518/170747.809:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir27036_585679308\Crashpad: The system cannot find the file specified. (0x2)
+[0518/171042.767:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir22536_985015544\Crashpad: The system cannot find the file specified. (0x2)
+[0518/171104.034:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir15968_1053567063\Crashpad: The system cannot find the file specified. (0x2)
+[0518/172531.693:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0518/172531.702:ERROR:exception_snapshot_win.cc(98)] thread ID 2888 not found in process
+[0518/180223.158:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir26232_1185472485\Crashpad: The system cannot find the file specified. (0x2)
+[0518/181656.731:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir15884_1925149503\Crashpad: The system cannot find the file specified. (0x2)
+[0518/182757.364:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir24024_1336708999\Crashpad: The system cannot find the file specified. (0x2)
+[0518/183132.612:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir16956_1277824902\Crashpad: The system cannot find the file specified. (0x2)
+[0518/183243.154:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir16516_443712141\Crashpad: The system cannot find the file specified. (0x2)
+[0518/191508.362:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir17636_404852928\Crashpad: The system cannot find the file specified. (0x2)
+[0518/191626.137:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\KHUSHB~1.ARO\AppData\Local\Temp\scoped_dir12680_1997912519\Crashpad: The system cannot find the file specified. (0x2)
